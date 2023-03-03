@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Brian Donaldson",
+    "classifications": [ "Common", "Code" ],
+    "identity": "Bitobrian.Maui.Blazor.KindaWinUi",
+    "name": "MAUI Blazor Kinda-WinUi",
+    "shortName": "kinda-winui",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "Maui.Blazor.KindaWinUi",
+    "preferNameDirectory": true
+  }
